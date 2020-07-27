@@ -1,10 +1,10 @@
 import React from 'react';
-import './App.css';
+import Menu from './componentes/Menu';
 
 function App() {
   return (
-    <div className="App">
-      Hello World!
+    <div>
+      <Menu />
     </div>
   );
 }
