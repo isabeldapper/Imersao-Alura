@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"Neste vídeo, a Vanny conta o motivo pela qual entrou na àrea de TI, quem foi sua influência, como escolheu a faculdade, qual área dentro da àrea de TI ela ingressou, como está o mercado de trabalho no Brasil e mais algumas dicas para conseguir emprego fora do Brasil."}
       />
 
       <Carousel
