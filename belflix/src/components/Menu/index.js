@@ -4,7 +4,6 @@ import Logo from '../../assets/images/Logo.png';
 import './style.css';
 import Button from '../Button';
 // import ButtonLink from './components/ButtonLink';
-
 function Menu() {
   return (
     <nav className="Menu">
@@ -18,5 +17,4 @@ function Menu() {
     </nav>
   );
 }
-
 export default Menu;
