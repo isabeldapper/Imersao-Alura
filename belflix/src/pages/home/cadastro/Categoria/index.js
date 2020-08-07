@@ -62,7 +62,6 @@ function CadastroCategoria() {
         setValues(valoresIniciais);
       }}
       >
-
         <FormField
           label="Nome da Categoria"
           type="text"
